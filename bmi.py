@@ -35,4 +35,4 @@ elif (BMI >=30):
 #output
 print ("BMI anda bernilai", BMI, "termasuk kedalam kategori", keterangan)
 print ("##########################################")
-print ("Halo")
+print ("Haalo")
